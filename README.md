@@ -1,4 +1,4 @@
-[README (2).md](https://github.com/user-attachments/files/33707065/README.2.md)
+[README .md](https://github.com/user-attachments/files/33707065/README.2.md)
 # Data Science
 
 A collection of Jupyter notebooks covering core data analysis and machine learning algorithms, from regression and classification to clustering, tree-based models, and deep learning.
